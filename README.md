@@ -31,3 +31,4 @@ sqlite> .tables
 
 ===========================================================
 
+JWT token can also be added on login. But that is out of the scope of the task. 
